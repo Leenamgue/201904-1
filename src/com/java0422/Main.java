@@ -1,5 +1,7 @@
 package com.java0422;
 
+import com.java0423.Var;
+
 public class Main {
 
 	public  void main(String[] a) {
@@ -16,6 +18,10 @@ public class Main {
 		
 		String 결과값 = 문자열 + (정수 + 정수 + 정수);
 		System.out.println(결과값);
+		
+		
+		Var v = new Var();
+		int s = v.state1;
 	}
 
 }
