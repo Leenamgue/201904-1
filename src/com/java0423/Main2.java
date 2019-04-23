@@ -2,7 +2,7 @@ package com.java0423;
 
 public class Main2 {
 
-	public static void main(String[] args) {
+	public void main(String[] args) {
 		System.out.println("특수 문자 출력");
 		/*************************************
 		 * 특수 문자 >> \
